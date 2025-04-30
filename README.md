@@ -10,7 +10,7 @@ I'm currently studying Computer Science at De Anza College, where I've completed
   - **Classes and objects**
   - Encapsulation, constructors, member functions
 - **Pointers and Dynamic Memory**
-  - `new` / `delete`, pointer arithmetic, arrays of pointers
+  - `new` / `delete`, pointer arithmetic, arrays and linklist
 
 ### ✅ From CIS 22C:
 - **Data Structures**
